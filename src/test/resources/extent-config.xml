@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Relatório de Testes</documentTitle>
+        <reportName>Relatório de Testes Automatizados</reportName>
+        <theme>standard</theme>
+        <protocol>HTTPS</protocol>
+        <autoCreateRelativePathMedia>true</autoCreateRelativePathMedia>
+    </configuration>
+</extentreports>

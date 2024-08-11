@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dc3af73-9754-4b98-9c7a-d3e52e330eb8" name="Changes" comment="UPDATE - updating readme.md">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/CommonActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/TestRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/IDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/LocalDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/RemoteDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/dto/ProdutoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/enums/MensagemEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/factory/ProdutoDTOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/utils/WaitUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jacksonteixeira/tests/MercadoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jacksonteixeira/tests/ProdutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/br/com/jackson/utils/Utils.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2EF5EpKNBhG2joNcp1NIVRC82ui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.NewProduct.executor": "Run",
+    "TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao (1).executor": "Run",
+    "TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao.executor": "Run",
+    "TestNG.NewProduct.pesquisandoProdutos.executor": "Run",
+    "TestNG.NewProduct.realizandoLogin.executor": "Run",
+    "TestNG.ProdutoTest.pesquisandoProdutos.executor": "Run",
+    "TestNG.com.jacksonteixeira.tests.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jackson_teixeira/OneDrive - Sicredi/Documents/Estudo/JavaCucumberSeleniumAutomation/src/main/java/com/jacksonteixeira/driver",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jackson_teixeira\OneDrive - Sicredi\Documents\Estudo\JavaCucumberSeleniumAutomation\src\main\java\com\jacksonteixeira\driver" />
+      <recent name="C:\Users\jackson_teixeira\OneDrive - Sicredi\Documents\Estudo\JavaCucumberSeleniumAutomation\driver" />
+      <recent name="$PROJECT_DIR$/driver" />
+      <recent name="$PROJECT_DIR$/files/AutomationIMG" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jacksonteixeira" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jacksonteixeira" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ProdutoTest.pesquisandoProdutos">
+    <configuration name="MercadoTest.pesquisandoProdutos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.tests.MercadoTest" />
+      <option name="METHOD_NAME" value="pesquisandoProdutos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MercadoTest.realizandoLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.tests.MercadoTest" />
+      <option name="METHOD_NAME" value="realizandoLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewProduct.listaDeCooperativasQueFizeramAdesao (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.acceptance.produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.acceptance.produtos" />
+      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.acceptance.produtos.NewProduct" />
+      <option name="METHOD_NAME" value="listaDeCooperativasQueFizeramAdesao" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.pesquisandoProdutos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.tests.ProdutoTest" />
+      <option name="METHOD_NAME" value="pesquisandoProdutos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.jacksonteixeira.tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ProdutoTest.pesquisandoProdutos" />
+        <item itemvalue="TestNG.com.jacksonteixeira.tests" />
+        <item itemvalue="TestNG.MercadoTest.pesquisandoProdutos" />
+        <item itemvalue="TestNG.MercadoTest.realizandoLogin" />
+        <item itemvalue="TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dc3af73-9754-4b98-9c7a-d3e52e330eb8" name="Changes" comment="" />
+      <created>1662178385288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662178385288</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ADD - Adicionando automação com Java, Selenium e Cucumber.">
+      <created>1662183595433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662183595433</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD - adding new scenarios and architecture updates.">
+      <created>1662287483304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662287483304</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD - Fixing function waitForElementPresent and refactoring code.">
+      <created>1662513724755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662513724755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADD - New Scenarios (Login Page).">
+      <created>1662563202374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662563202374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADD - Updatind the scenarios Login Page and new scenarios Dashboard page.">
+      <created>1662614617193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662614617193</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ADD and UPDATE - Rafactoring code and new scenarios.">
+      <created>1662617783109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662617783109</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ADD - Adding new features.">
+      <created>1662793860520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662793860520</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD - Adding new features of product.">
+      <created>1662911064454</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662911064454</updated>
+    </task>
+    <task id="LOCAL-00009" summary="UPDATE - updating readme.md">
+      <created>1664775632353</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664775632353</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD - Adicionando automação com Java, Selenium e Cucumber." />
+    <MESSAGE value="ADD - adding new scenarios and architecture updates." />
+    <MESSAGE value="ADD - Fixing function waitForElementPresent and refactoring code." />
+    <MESSAGE value="ADD - New Scenarios (Login Page)." />
+    <MESSAGE value="ADD - Updatind the scenarios Login Page and new scenarios Dashboard page." />
+    <MESSAGE value="ADD and UPDATE - Rafactoring code and new scenarios." />
+    <MESSAGE value="ADD - Adding new features." />
+    <MESSAGE value="ADD - Adding new features of product." />
+    <MESSAGE value="UPDATE - updating readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE - updating readme.md" />
+  </component>
+</project>
