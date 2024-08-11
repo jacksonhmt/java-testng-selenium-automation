@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dc3af73-9754-4b98-9c7a-d3e52e330eb8" name="Changes" comment="UPDATE - updating readme.md">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/CommonActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/config/TestRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/IDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/LocalDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/RemoteDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/driver/SessionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/dto/ProdutoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/enums/MensagemEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/factory/ProdutoDTOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacksonteixeira/utils/WaitUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jacksonteixeira/tests/MercadoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jacksonteixeira/tests/ProdutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.MercadoTest.executor": "Run",
     "TestNG.NewProduct.executor": "Run",
     "TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao (1).executor": "Run",
     "TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao.executor": "Run",
@@ -73,7 +61,7 @@
     "TestNG.com.jacksonteixeira.tests.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jackson_teixeira/OneDrive - Sicredi/Documents/Estudo/JavaCucumberSeleniumAutomation/src/main/java/com/jacksonteixeira/driver",
+    "last_opened_file_path": "C:/Users/jackson_teixeira/OneDrive - Sicredi/Documents/Estudo/java-testng-selenium-automation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -98,7 +86,24 @@
       <recent name="com.jacksonteixeira" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ProdutoTest.pesquisandoProdutos">
+  <component name="RunManager" selected="TestNG.MercadoTest">
+    <configuration name="MercadoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaCucumberSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacksonteixeira.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.tests.MercadoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MercadoTest.pesquisandoProdutos" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaCucumberSeleniumAutomation" />
       <extension name="coverage">
@@ -128,24 +133,6 @@
       <option name="PACKAGE_NAME" value="com.jacksonteixeira.tests" />
       <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.tests.MercadoTest" />
       <option name="METHOD_NAME" value="realizandoLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewProduct.listaDeCooperativasQueFizeramAdesao (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaCucumberSeleniumAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jacksonteixeira.acceptance.produtos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jacksonteixeira.acceptance.produtos" />
-      <option name="MAIN_CLASS_NAME" value="com.jacksonteixeira.acceptance.produtos.NewProduct" />
-      <option name="METHOD_NAME" value="listaDeCooperativasQueFizeramAdesao" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -189,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MercadoTest" />
         <item itemvalue="TestNG.ProdutoTest.pesquisandoProdutos" />
         <item itemvalue="TestNG.com.jacksonteixeira.tests" />
         <item itemvalue="TestNG.MercadoTest.pesquisandoProdutos" />
         <item itemvalue="TestNG.MercadoTest.realizandoLogin" />
-        <item itemvalue="TestNG.NewProduct.listaDeCooperativasQueFizeramAdesao (1)" />
       </list>
     </recent_temporary>
   </component>
